@@ -12,15 +12,15 @@
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/3-folder-creation.png)
 
-- create two folder one folder namely request it conatins put some requested data.
-- 
+- create two folder one folder namely request it conatins put some input requested data and the give it a name.
+
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/request-folder.png)
 
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/request-file.png)
 
 
-- Another folder namely response it conatins put some response  data.
+- Another folder namely response it conatins put some response  data and give it a name.
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/response-folder.png)
 
