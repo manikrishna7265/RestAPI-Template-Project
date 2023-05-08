@@ -3,7 +3,9 @@
 - OPen designcenter under the anypoint platfrom using your credentioals.
 - create new API specification file.
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/1.png)
-- Then provide a name 
+
+- Then you will provide a name that can be unique. 
+
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/2.png)
 
 
