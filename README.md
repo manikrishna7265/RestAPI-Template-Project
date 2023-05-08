@@ -9,8 +9,21 @@
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/2.png)
 
 - create one file, that contains variable and data types thses are comes under one folder
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/3-folder-creation.png)
+
 - create two folder one folder namely request it conatins put some requested data.
+- 
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/request-folder.png)
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/request-file.png)
+
+
 - Another folder namely response it conatins put some response  data.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/response-folder.png)
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/response-file.png)
+
+
 - Open dependencies they contains fragments add API specification fragment file using + symbol besides on fragments, before you adding this file create one fragment file and publish into exchange.
 - After completed you API development code, apply mockservice using documentation icon placed on the  right side top.
 - Check each and individual base path is it working perfectly or not based on your requirements.
