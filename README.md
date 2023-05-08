@@ -27,13 +27,46 @@
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/response-file.png)
 
+- Add this json schema file while you expected output comes from json format.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/json-schema-file.png)
+
+- Add this RAML file while you request input data is placed here.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/raml-file-creation.png)
 
 - Open dependencies they contains fragments add API specification fragment file using + symbol besides on fragments, before you adding this file create one fragment file and publish into exchange.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/add-common-traits.png)
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/add-common-traits1.png)
+
 - After completed you API development code, apply mockservice using documentation icon placed on the  right side top.
+
+ ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/open-doc-check-every-url-inmockservice.png)
+ 
 - Check each and individual base path is it working perfectly or not based on your requirements.
+
+ ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/after-hitting-tryit-200%20ok.png)
+
 - Its working perfectly publish into the exchange.
+
+ ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/publish-to-exchange.png)
+ 
+ - check the API in Exchange 
+ 
+  ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/exchange-test.png)
+ 
 - Now open anypoint studio create a new file give it a name, and open exchange under the import a published API they conatins from exchange open it.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/new-app-creation.png)
+
 - Now it shows add dependencies to project here add account using anypoint platform credentials.
+
+
 - Now add above published project mentioned that application name.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/get-template-from-anypoint%20platform.png)
+
 
 
