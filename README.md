@@ -76,13 +76,16 @@
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/using-muleconfig-file-create-config-error-implemenation.png)
 
-- implementation file
+- Here it is the implementation file.
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/implementation-flow.png)
 
-- configuration file
+- Here it is the configuration file.
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/global-config.png)
 
+- Here it is the error handling fiile.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/error-handling-anypoint.png)
 
 
