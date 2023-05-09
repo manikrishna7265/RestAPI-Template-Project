@@ -63,7 +63,6 @@
 
 - Now it shows add dependencies to project here add account using anypoint platform credentials.
 
-
 - Now add above published project mentioned that application name.
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/get-template-from-anypoint%20platform.png)
