@@ -67,5 +67,22 @@
 
 ![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/get-template-from-anypoint%20platform.png)
 
+- Now the application is open in the anypoint studio successfylly.
+- Below you see the application main file.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/create-config-implementatio-error-files.png)
+
+- create a config file, implementation file and error handling file by using Mule config option it is available in --> new project creation.
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/using-muleconfig-file-create-config-error-implemenation.png)
+
+- implementation file
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/implementation-flow.png)
+
+- configuration file
+
+![](https://github.com/manikrishna7265/RestAPI-Template-Project/blob/main/global-config.png)
+
 
 
